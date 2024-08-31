@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue on this GitHub repository or [Email Me](mailto:crescendocompanion@gmail.com).
+If you have any questions or suggestions, please open an issue or discussion on this GitHub repository or [Email Me](mailto:crescendocompanion@gmail.com).
 
 ##
 Feel free to adjust any details locally to better fit your project's needs!
