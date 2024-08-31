@@ -1,6 +1,6 @@
 # Music Genre Categorization
 
-An project for categorizing music genres, inspired by [Every Noise at Once](https://everynoise.com/) by Glenn McDonald.
+A project for categorizing music genres, inspired by and using genre data from [Every Noise at Once](https://everynoise.com/) by Glenn McDonald. 
 
 ## Project Overview
 
